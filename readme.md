@@ -1,4 +1,4 @@
-###Assignment 4: Probability and Utility
+### Assignment 4: Probability and Utility
 
 #### Due April 27, at the start of class.
 
